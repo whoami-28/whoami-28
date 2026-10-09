@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=180&section=header&text=whoami-28&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Web%20Developer%20%7C%20Full-Stack%20%26%20Creative%20Engineer&descFontSize=20&descAlignY=68&descAlign=50" width="100%"/>
-
   <p align="center">
     <img src="https://img.shields.io/badge/%D0%A4%D0%BE%D0%BA%D1%83%D1%81-Web_Development-21262d?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Focus" />
     <img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-Full--Stack-21262d?style=for-the-badge&logo=stackshare&logoColor=ffffff" alt="Profile" />
