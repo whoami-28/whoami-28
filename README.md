@@ -3,11 +3,6 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=180&section=header&text=whoami-28&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Web%20Developer%20%7C%20Full-Stack%20%26%20Creative%20Engineer&descFontSize=20&descAlignY=68&descAlign=50" width="100%"/>
 
-  <!-- Typing SVG Headline -->
-  <a href="https://github.com/whoami-28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=E6EDF3&center=true&vCenter=true&width=620&lines=%D0%92%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%E2%80%A2+Full-Stack+%D0%B8+Creative+Tech;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+.NET+10;%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B5%2C+%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B5+%D0%B8+%D1%81%D1%82%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B" alt="Typing SVG" />
-  </a>
-
   <p align="center">
     <img src="https://img.shields.io/badge/%D0%A4%D0%BE%D0%BA%D1%83%D1%81-Web_Development-21262d?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Focus" />
     <img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-Full--Stack-21262d?style=for-the-badge&logo=stackshare&logoColor=ffffff" alt="Profile" />
@@ -85,7 +80,6 @@
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <p>
-        <a href="https://whoami-28.github.io/auto-config/"><b>🌐 Live Demo</b></a> • 
         <a href="https://github.com/whoami-28/auto-config"><b>📦 Исходный код</b></a>
       </p>
     </td>
@@ -104,7 +98,6 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       </p>
       <p>
-        <a href="https://whoami-28.github.io/nexus-soc/"><b>🌐 Web Client</b></a> • 
         <a href="https://github.com/whoami-28/nexus-soc"><b>📦 Исходный код</b></a>
       </p>
     </td>
@@ -149,7 +142,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏍️ <a href="https://github.com/whoami-28/moto-axis">Moto-Axis (FarshGenerator)</a></h3>
+      <h3>🏍️ <a href="https://github.com/whoami-28/moto-axis">Moto-Axis</a></h3>
       <p><b>Маркетплейс мотоциклов с кабинетом дилера</b></p>
       <ul>
         <li>Архитектура ASP.NET Core MVC с компонентными Razor-представлениями.</li>
@@ -216,7 +209,7 @@
 
 ---
 
-### 🐍 График активности (GitHub Contribution Snake)
+### 🐍 График активности
 
 <p align="center">
   <picture>
@@ -231,15 +224,12 @@
 ### 📬 Связаться со мной
 
 <div align="center">
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/Doomayou" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:wolfd200828@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/whoami-28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
